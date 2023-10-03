@@ -97,7 +97,7 @@ height:30px;
  position:absolute;
  top:0;
  right:0;
- width:500px;
+ width:560px;
  height:100%;
  background:trasparent;
  transition:3s;
@@ -109,7 +109,7 @@ height:30px;
 
 }
 p{
-    width:550px;
+    width:500px;
     text-align: justify;
 }
 .hire:hover{
@@ -119,4 +119,4 @@ color:#0083ee;
 .talks:hover{
     background-color:aliceblue;
     color:#0083ee;
-}
+    }
