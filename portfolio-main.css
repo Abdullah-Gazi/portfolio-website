@@ -97,7 +97,7 @@ height:30px;
  position:absolute;
  top:0;
  right:0;
- width:490px;
+ width:470px;
  height:100%;
  background:trasparent;
  transition:3s;
@@ -119,4 +119,4 @@ color:#0083ee;
 .talks:hover{
     background-color:aliceblue;
     color:#0083ee;
-    }
+}
