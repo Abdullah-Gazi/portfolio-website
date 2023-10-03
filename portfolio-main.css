@@ -50,7 +50,6 @@ transition:.3s;
     display:flex;
     align-items:center;
     padding: 0 10%;
-    width:
 }
 .home-content{
     max-width:600px;
@@ -98,7 +97,7 @@ height:30px;
  position:absolute;
  top:0;
  right:0;
- width:452px;
+ width:490px;
  height:100%;
  background:trasparent;
  transition:3s;
